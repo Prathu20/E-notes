@@ -64,10 +64,17 @@ MySQL: For storing user data and notes securely.
 
 **Notes Management Modules:**
 
-**1) Add Notes:** Interface and logic for creating new notes.
-**2) Show Notes:** Displays a list of all notes belonging to the logged-in user.
-**3) Edit Notes:** Allows users to modify existing notes.
-**4) Delete Notes:** Provides functionality to remove unwanted notes.
+**1) Add Notes:** 
+Interface and logic for creating new notes.
+
+**2) Show Notes:** 
+Displays a list of all notes belonging to the logged-in user.
+
+**3) Edit Notes:** 
+Allows users to modify existing notes.
+
+**4) Delete Notes:** 
+Provides functionality to remove unwanted notes.
 
 **Conclusion:**
 The E-Notes project is an efficient and user-friendly application for managing personal notes. Its use of robust technologies ensures reliability, while the modular approach allows for easy maintenance and future enhancements. Whether for personal use or as a foundation for a larger system, E-Notes provides a comprehensive solution for note-taking needs.
